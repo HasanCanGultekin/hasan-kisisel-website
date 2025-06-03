@@ -8,12 +8,12 @@ export default function Posts() {
         <h1>Yazılarım</h1>
         <ul>
           <li>
-            <a href="https://medium.com/@seninkullaniciadın" target="_blank">
+            <a href="https://medium.com/@kullaniciadiniz" target="_blank" rel="noopener noreferrer">
               📝 Medium'da yayınladığım yazılar
             </a>
           </li>
           <li>
-            <a href="https://linkedin.com/in/seninprofilin" target="_blank">
+            <a href="https://linkedin.com/in/profiliniz" target="_blank" rel="noopener noreferrer">
               📎 LinkedIn içeriklerim
             </a>
           </li>
