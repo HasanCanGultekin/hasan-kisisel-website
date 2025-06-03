@@ -1,4 +1,4 @@
-import Navbar from '../components/Navbar'
+import Navbar from '../components/Navbar';
 
 export default function Posts() {
   return (
@@ -8,12 +8,20 @@ export default function Posts() {
         <h1>Yazılarım</h1>
         <ul>
           <li>
-            <a href="https://medium.com/@kullaniciadiniz" target="_blank" rel="noopener noreferrer">
+            <a
+              href="https://medium.com/@hasangultekin"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               📝 Medium'da yayınladığım yazılar
             </a>
           </li>
           <li>
-            <a href="https://linkedin.com/in/profiliniz" target="_blank" rel="noopener noreferrer">
+            <a
+              href="https://linkedin.com/in/hasangultekin"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               📎 LinkedIn içeriklerim
             </a>
           </li>
@@ -23,5 +31,5 @@ export default function Posts() {
         </ul>
       </main>
     </>
-  )
+  );
 }
